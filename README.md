@@ -1,4 +1,6 @@
 **# Olist-Sales-Analysis-******
+
+
 This project centers around the analysis of the Brazilian E-Commerce Public Dataset provided by Olist. The dataset encapsulates a rich tapestry of e-commerce transactions, offering insights into sellers, customers, products, orders, and reviews
 **OVERVIEW******
  This dashboard provides a comprehensive analysis of key performance indicators (KPIs) focused on weekdays vs. weekends, payment statistics, delivery times, and customer satisfaction.
